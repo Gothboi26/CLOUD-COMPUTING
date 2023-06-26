@@ -1,0 +1,23 @@
+· Summary
+
+The use and administration of computer resources have been completely transformed by cloud computing and autonomic computing. The delivery of
+
+resources via internet by cloud computing allows for easy access to educational services and material. Administrative procedures have been reduced, and learning is now available whenever needed. Cloud gaming eliminates the need for expensive gear or hardware and makes It possible to play games with no need of higher computer hardware.
+
+The goal of autonomic computing is to develop independent systems that can control, analyze, and improve their own behavior. Autonomic computing in education can improve learning environments by providing individualized guidance and support. Artificial Intelligent tutoring systems may support learners’ performance, adjust learning materials and methods automatically, and adapt to individual needs.
+
+In gaming, by dynamically altering graphical settings and streamlining resource allocation in accordance with the user preferences and requirements, autonomic computing may produce immersive gaming experience.
+
+· Conclusion
+
+We the researchers conclude that cloud computing and autonomic computing have affected industries such as education and gaming it had a big impact on the field of computer science.
+
+Cloud computing made education much more advanced and accessible by enabling the availability of educational contents or materials through online platforms. It has decreased the procedures for administration, it made the materials much easier to access for students, and it allows the students to study virtually. Cloud gaming has increased accessibility by removing the need for expensive hardware and software to run applications by using cloud servers.
+
+On the other side, Autonomic computing targets developing self-controlling systems. It involves creating a computing system that can troubleshoot itself. By this it reduced human involvement and it improved system dependability.
+
+Autonomic computing has the potential to improve the effectiveness and efficiency of learning environments in the educational field. Artificial Intelligent tutoring systems can use the principles of autonomic computing to adapt the specific needs of each learner and offer individualized guidance. These systems can assess students’ performance and identify the areas that need improvement
+
+and modify the teaching strategies and materials as necessary.
+
+Autonomic computing can help produce more realistic and engaging gaming experiences. Based on the hardware requirements and preferences of the players, game engines can contain autonomic features to dynamically modify visual settings, optimize resource allocation, and improve overall performance.
