@@ -1,0 +1,20 @@
+Review Related Literature 3
+
+Gaming
+
+THE ROLE OF CLOUD IN THE EVOLUTION OF GAMING
+
+Raj et al. (2020) study found that gaming industry has seen a lot of ups and downs over the years. 
+However, the modern era of gaming has been revolutionized by the cloud. It holds the potential to 
+reform and give an entirely new perspective to the masses. It is much better than offline games 
+because it allows the players to play against real players and also helps them keep track of their 
+performance globally. Also, the creators dont have the burden to create new updates and resell them 
+in case of offline games. It can update over the air with any downtime. New maps can be added 
+without providing bulky updates. In app-purchases become easy with online games. 
+There is so much to look forward to when it comes to online gaming. New techniques for faster 
+responses are being researched along with easy to deploy methods. The microservices architecture 
+has proven itself quite efficient and lightweight for designing such complex systems. It can also be 
+optimized for reducing the errors and response failures. This industry has shown promising grown in 
+the past decade and has made e-sports popular among the players worldwide. This can boost the 
+demand for games and more profits can be made through highly responsive architectures.
+
