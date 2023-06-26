@@ -1,0 +1,21 @@
+
+Uses and Functions 
+
+                 Many technologies that were previously expensive or unavailable are now becoming free to anyone with a web browser. This is true for all web sites, blogs, video sharing, music sharing, social sharing, collaboration software, editing/presentation and publishing, and computing platforms in the “cloud”. Students are already using many of these technologies in their personal lives. In the professional world, the trend of discovering and using technologies in our personal life is called “consumerization.”
+
+                Today’s “cloud” platforms such as “Microsoft” and “Google” are providing free services to students and staff at educational institutions which include email, contact lists, calendars, document storage, creation and sharing documents and the ability to create websites (Sclater, 2009). He surveyed different companies from different industries who have built custom applications in the cloud and analyzed how cloud computing affected their operations in three important areas: Security, Integration, and Time-to-Value.
+
+           Cloud computing is an emerging application platform and aims to share data, calculations, and services among users. The methods to model it with the challenges like user interface, task distribution and coordination issues are explained and evaluated in (Lijun, Chan, & Tse, 2008).
+
+               "Autonomic Computing" is a new vision of computing initiated by IBM.
+      This new paradigm shifts the fundamental definition of the technology age from one computing to one defined by data. Access to data from multiple, distributed sources, in addition to traditional centralized storage devices will allow users to transparently access information when and where they need it.
+
+           Is a computer’s ability to manage itself automatically through adaptive technologies that further computing capabilities and cut down on the time required by computer professionals to resolve system difficulties and other maintenance such as software updates.
+
+Importance and Benefits
+
+Importance of Cloud Computing:
+
+          People may utilize cloud computing for more than just storing their images and movies online. It is a component of a corporate strategy that is sweeping the globe. Cloud computing is transforming not just how many organizations access and store data, but also how many of these firms run.
+
+When it comes to the cloud, large organizations have an edge. They may collaborate with the top cloud service providers and receive all the benefits they want. But one of the best things about the cloud is that it can help even small and medium-sized businesses. it provides flexibility, data recovery, little to no maintenance, simple access, and a greater degree of security, cloud computing is crucial.
