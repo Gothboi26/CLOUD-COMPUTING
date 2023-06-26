@@ -1,0 +1,20 @@
+Review Related Literature 1
+
+Autonomic to Cloud Computing
+
+How autonomic data security can help define clouds future
+
+According to Chuvakin A., & Stone J., (2022). As data usage has undergone drastic expansion and
+changes in the past five years. Technology such as cloud computing and AI have changed how we use
+data, derive value from data, and glean insights from data. Data moves, shifts, and replicates, as you
+mingle data sets and gain new value in the process. All the while, your data resides in and is being
+created in new places.
+A relatively new concept, autonomic data security is security thats been integrated with data
+throughout its lifecycle. It can make things easier on users by freeing them from defining and 
+redefining myriad rules about who can do what, when, where. Its an approach that keeps pace with 
+constantly evolving cyberthreats and business changes. 
+Autonomic data security can help you keep your IT assets more secure and can make your business 
+and IT processes snanopeedier. For example, data sharing with partners and data access decisions 
+simultaneously becomes faster and more secure. This may sound like magic, but in fact relies on a 
+constant willingness to change and adapt to both business changes and threat evolution.
+
