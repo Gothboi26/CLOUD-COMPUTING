@@ -1,3 +1,5 @@
 Autonomic to Cloud Computing
 
 How autonomic data security can help define clouds future
+
+According to Chuvakin A., & Stone J., (2022). As data usage has undergone drastic expansion and changes in the past five years. Technology such as cloud computing and AI have changed how we use data, derive value from data, and glean insights from data. Data moves, shifts, and replicates, as you mingle data sets and gain new value in the process. All the while, your data resides in and is being created in new places.
