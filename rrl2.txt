@@ -1,0 +1,22 @@
+Review Related Literature 2
+
+Education
+
+Cloud computing in education and student's needs
+
+According to Krelja, Rako, & Tomljanovic (2013) Cloud computing usability in education is very broad, 
+as recognized by many educational institutions around the world. The reasons for the worldwide 
+introduction of cloud computing for educational establishment are mainly of a financial nature, but it 
+should be noted that cloud has creative potentials because it enables that ideas, thoughts and 
+knowledge can be created, used and shared easily. Students may create their own "Cloud-Based 
+Personalized Learning Environment" or use m-learning and access to Open Educational Resources 
+from the cloud. However, to achieve this, students and teachers should be willing to use services in 
+cloud and be familiar with their advantages and limitations. 
+Their study shows that the respondents (students) are often online and at the same time using 
+multiple computers and similar devices (tablet computers, smartphones). When using computers, they 
+are (on average) sometimes in situations that require the use of applications and services in the cloud. 
+The largest use is noted with cloud communication software, the smallest with cloud docs / office 
+software. The students have expressed, based on the average of their answers, that they sometimes 
+need and use cloud applications / services, which means that they are not yet ready for a "move to 
+the cloud". It is necessary to educate and motivate them about cloud applications and services to
+make them become aware of the benefits.
